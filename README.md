@@ -1,3 +1,3 @@
 # Quote-Generator
 
-This simple webpage generators quotes using an API from type.fit
+This simple webpage generates quotes using an API from type.fit
