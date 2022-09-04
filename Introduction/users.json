@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Robert Watson",
+        "age": 28,
+        "email": "robertwatson@gmail.com"
+    },
+    
+    {
+        "id": 2,
+        "name": "Mary Watson",
+        "age": 27,
+        "email": "marywatson@gmail.com"
+    },
+
+    {
+        "id": 3,
+        "name": "Katy Simon",
+        "age": 18,
+        "email": "katysimon@gmail.com"
+    }
+]

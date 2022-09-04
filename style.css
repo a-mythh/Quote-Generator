@@ -1,0 +1,75 @@
+.container {
+    width: 90%;
+    margin-left: 25px;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-size: 2rem;
+}
+
+#numberLabel {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#number {
+    display: block;
+    padding: 5px;
+    font-size: 18px;
+    margin: 8px 0px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+
+#number:focus {
+    background-color: #d9faf7;
+}
+
+#number:focus-visible {
+    outline: none;
+}
+
+#number::-webkit-outer-spin-button,
+#number::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.get-quotes {
+    padding: 10px 4px;
+    font-family: monospace;
+    font-size: 15px;
+    width: 150px;
+    margin: 5px 0px;
+    background-color: aliceblue;
+    border: 1px solid grey;
+    border-radius: 3px;
+}
+
+.get-quotes:hover {
+    cursor: pointer;
+    background-color: rgb(180, 214, 243);
+}
+
+.get-quotes:focus-visible {
+    outline: none;
+    background-color: rgb(180, 214, 243);
+}
+
+hr {
+    margin: 30px 0;
+    background-color: #1c2b2d;
+}
+
+ul {
+    list-style: circle;
+    padding-left: 1.5rem;
+}
+
+ul li {
+    font-size: 1rem;
+    padding: 5px 0;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}

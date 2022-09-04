@@ -1,0 +1,27 @@
+.user {
+    width: 90%;
+    border: 1px solid #eee;
+    padding: 5px;
+}
+
+.user > * {
+    margin: 5px 0;
+}
+
+button {
+    padding: 1rem;
+}
+
+hr {
+    background-color: #1c2b2d;
+}
+
+ul {
+    list-style: circle;
+    padding-left: 1.5rem;
+}
+
+ul li {
+    font-size: 1.4rem;
+    padding: 5px 0;
+}
